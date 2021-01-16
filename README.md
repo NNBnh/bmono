@@ -1,20 +1,24 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
-<p align="center"><img src="https://img.shields.io/github/license/NNBnh/bmono?labelColor=585858&color=F7CA88&style=for-the-badge" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version:-4.4.0-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 4.4.0"></p>
+<p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-4.4.0-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 4.4.0"></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
 ## About
-**Bmono** is a *SuperB* mono font.
+**Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **consistency**, **readability** and **functionality**.
 
 <p align="center"><img src=""></p>
 
 ### Features
 
+
 ## Contents
 - [About](#about)
   - [Features](#features)
 - [Contents](#contents)
+- [Build](#build)
 - [Credit](#credit)
+
+## Build
 
 ## Credit
 Special thanks to:
