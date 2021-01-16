@@ -14,6 +14,7 @@
 - **Consistency**:
   - `asterisk = "low"` and `caret = "low"`: make it the same height as other math symbols(`-`, `+`, `=`, ...)
 - **Readability**:
+  - Extended width: make the font wider
   - `l = "serifed-flat-tailed"`: makes it easier to distinguish from `1` and `I` (`1lI`)
   - `zero = "dotted"`: makes it easier to distinguish from `O` (`0O`) but more simple than `slashed`
 - **Style**:
