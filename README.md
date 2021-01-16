@@ -4,21 +4,36 @@
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
 ## About
-**Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **consistency**, **readability** and **functionality**.
+**Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
 <p align="center"><img src=""></p>
 
 ### Features
-
+- **Simplicity**:
+  - `dollar = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
+- **Consistency**:
+  - `asterisk = "low"` and `caret = "low"`: make it the same height as other math symbols(`-`, `+`, `=`, ...)
+- **Readability**:
+  - `l = "serifed-flat-tailed"`: makes it easier to distinguish from `1` and `I` (`1lI`)
+  - `zero = "dotted"`: makes it easier to distinguish from `O` (`0O`) but more simple than `slashed`
+- **Style**:
+  - Curly style (`ss20`): make the font curly
+  - `capital-g = "toothless-rounded"`, `eight = "two-circles"`, `six = "closed-contour"` and `nine = "closed-contour"`: rounding off those symbols
+  - `three = "flattop"`: `2`, `3` ,`6`, `8`, `9` are all have an semicircular upper part. A flat top three will make the numbers more interesting
+  - `paren = "large-contour"`: make `()` and `(-)` look more like a circle than an ellipse
+- **Functionality**:
+  - Discretionary ligatures: to get more ligatures, make it comparable to [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Contents
 - [About](#about)
   - [Features](#features)
 - [Contents](#contents)
-- [Build](#build)
+- [Tutorial](#tutorial)
 - [Credit](#credit)
 
-## Build
+## Tutorial
+
+[Learn how to create your own Iosevka custom build font](https://github.com/NNBnh/dots/wiki/font)
 
 ## Credit
 Special thanks to:
