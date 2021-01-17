@@ -19,7 +19,7 @@
   - `zero = "dotted"`: makes it easier to distinguish from `O` (`0O`) but more simple than `slashed`
 - **Style**:
   - Curly style (`ss20`): make the font curly
-  - `capital-g = "toothless-rounded"`, `eight = "two-circles"`, `six = "closed-contour"` and `nine = "closed-contour"`: rounding off those symbols
+  - `capital-g = "toothless-rounded"` and `eight = "two-circles"`: rounding off those symbols
   - `three = "flattop"`: `2`, `3` ,`6`, `8`, `9` are all have an semicircular upper part. A flat top three will make the numbers more interesting
   - `paren = "large-contour"`: make `()` and `(-)` look more like a circle than an ellipse
 - **Functionality**:
@@ -34,7 +34,7 @@
 
 ## Tutorial
 
-[Learn how to create your own Iosevka custom build font](https://github.com/NNBnh/dots/wiki/font)
+[Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dots/wiki/font)
 
 ## Credit
 Special thanks to:
