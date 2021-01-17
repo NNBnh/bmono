@@ -1,12 +1,13 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/104830668-66adf980-58b3-11eb-8e16-a4c8bbf33575.png"></p>
 <p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-4.4.0-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 4.4.0"></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
 ## About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
-<p align="center"><img src=""></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/badge/downloads-%23F7CA88.svg?style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
 
 ### Features
 - **Simplicity**:
