@@ -34,7 +34,6 @@
 - [Credit](#credit)
 
 ## Tutorial
-
 [Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dots/wiki/font)
 
 ## Credit
