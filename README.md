@@ -1,6 +1,6 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/108042889-fdb4cf80-7072-11eb-8c1e-2858c6260e01.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/108044819-52594a00-7075-11eb-9d32-3ef46e833bf5.png"></p>
 <p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-5.0.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 5.0.1"></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
