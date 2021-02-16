@@ -1,7 +1,7 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/104830668-66adf980-58b3-11eb-8e16-a4c8bbf33575.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-4.4.0-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 4.4.0"></p>
+<p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-4.4.0-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 5.0.1"></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
 ## About
@@ -11,12 +11,12 @@
 
 ### Features
 - **Simplicity**:
-  - `dollar = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
+  - `dollar = "open"`, `cent = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
 - **Consistency**:
   - `asterisk = "low"` and `caret = "low"`: make it the same height as other math symbols(`-`, `+`, `=`, ...)
 - **Readability**:
   - Extended width: make the font wider
-  - `l = "serifed-flat-tailed"`: makes it easier to distinguish from `1` and `I` (`1lI`)
+  - `l = "serifed-tailed"`: makes it easier to distinguish from `1` and `I` (`1lI`)
   - `zero = "dotted"`: makes it easier to distinguish from `O` (`0O`) but more simple than `slashed`
 - **Style**:
   - Curly style (`ss20`): make the font curly

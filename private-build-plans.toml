@@ -7,8 +7,8 @@ serifs = "sans"
   inherits = "ss20"
 
     [buildPlans.bmono.variants.design]
-    capital-g = "toothless-rounded"
-    l = "serifed-flat-tailed"
+    capital-g = "toothless-rounded-serifless-hooked"
+    l = "serifed-tailed"
     zero = "dotted"
     three = "flattop"
     eight = "two-circles"
@@ -16,7 +16,8 @@ serifs = "sans"
     caret = "low"
     paren = "large-contour"
     dollar = "open"
-    percent = "rings-connected"
+    cent = "open"
+    percent = "rings-continuous-slash"
 
   [buildPlans.bmono.ligations]
   inherits = "dlig"
