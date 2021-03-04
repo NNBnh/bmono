@@ -1,8 +1,8 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/108044819-52594a00-7075-11eb-9d32-3ef46e833bf5.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"> <img src="https://img.shields.io/badge/iosevka_version-5.0.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 5.0.1"></p>
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v5.0.1"><img src="https://img.shields.io/badge/iosevka_version-5.0.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 5.0.1"></a></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/network/members"><img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/issues"><img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
@@ -45,6 +45,6 @@ Special thanks to:
 
 ---
 
-> <h1 align="center">Made with :heart: by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
 > <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></p>
