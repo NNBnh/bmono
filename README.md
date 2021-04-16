@@ -4,12 +4,12 @@
 <p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v5.0.1"><img src="https://img.shields.io/badge/iosevka_version-5.0.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 5.0.1"></a></p>
 <p align="center"><a href="https://github.com/NNBnh/bmono/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/network/members"><img src="https://img.shields.io/github/forks/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bmono/issues"><img src="https://img.shields.io/github/issues/NNBnh/bmono?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
-## About
+## 💡 About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
 <p align="center"><a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/badge/downloads-%23F7CA88.svg?style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
 
-### Features
+### ✨ Features
 - **Simplicity**:
   - `dollar = "open"`, `cent = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
 - **Consistency**:
@@ -26,17 +26,10 @@
 - **Functionality**:
   - Discretionary ligatures: to get more ligatures, make it comparable to [Fira Code](https://github.com/tonsky/FiraCode)
 
-## Contents
-- [About](#about)
-  - [Features](#features)
-- [Contents](#contents)
-- [Tutorial](#tutorial)
-- [Credit](#credit)
-
-## Tutorial
+## 🔰 Tutorial
 [Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dots/wiki/font)
 
-## Credit
+## 💌 Credits
 Special thanks to:
 - [**Iosevka**](https://github.com/be5invis/Iosevka) by [Belleve](https://github.com/be5invis)
 - [**Iosevka docker**](https://github.com/avivace/iosevka-docker) by [Antonio Vivace](https://github.com/avivace)
