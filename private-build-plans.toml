@@ -2,6 +2,7 @@
 family = "Bmono"
 spacing = "fontconfig-mono"
 serifs = "sans"
+no-cv-ss = false
 
   [buildPlans.bmono.variants]
   inherits = "ss20"
@@ -10,19 +11,19 @@ serifs = "sans"
     capital-g = "toothless-rounded-serifless-hooked"
     l = "serifed-tailed"
     zero = "dotted"
-    three = "flattop"
     eight = "two-circles"
-    asterisk = "low"
+    asterisk = "penta-low"
     caret = "low"
     paren = "large-contour"
     dollar = "open"
     cent = "open"
     percent = "rings-continuous-slash"
+    bar = "force-upright"
 
   [buildPlans.bmono.ligations]
   inherits = "dlig"
 
 [buildPlans.bmono.widths.normal]
-shape = 576
+shape = 600
 menu = 5
 css = "normal"
