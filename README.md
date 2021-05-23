@@ -7,7 +7,7 @@
 ## 💡 About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
-<p align="center"><a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/badge/downloads-%23F7CA88.svg?style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=F7CA88&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
 
 ### ✨ Features
 - **Simplicity**:
