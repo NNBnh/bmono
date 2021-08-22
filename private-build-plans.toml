@@ -9,7 +9,7 @@ no-cv-ss = false
 
     [buildPlans.bmono.variants.design]
     capital-g = "toothless-rounded-serifless-hooked"
-    l = "serifed-tailed"
+    l = "tailed-serifed"
     zero = "dotted"
     eight = "two-circles"
     asterisk = "penta-low"
