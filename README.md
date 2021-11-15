@@ -1,12 +1,12 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/115989432-85c1d300-a5e8-11eb-9eb9-974865659754.png"></p>
-<p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v11.0.1"><img src="https://img.shields.io/badge/iosevka_version-11.0.1-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 11.0.1"></a></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v11.0.1"><img src="https://img.shields.io/badge/iosevka_version-11.0.1-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 11.0.1"></a></p>
 
 ## 💡 About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
-<p align="center"><a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=F7CA88&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
+<p align="center"><a href="https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2FNNBnh%2Fbmono%2Fmain%2Fdist%2Fbmono%2Fttf%2Fbmono-regular.ttf"><img src="https://img.shields.io/badge/try_out-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Try out"></a> <a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=FFC387&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
 
 ### ✨ Features
 - **Simplicity**:
@@ -39,4 +39,4 @@ Special thanks to:
 
 > <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
