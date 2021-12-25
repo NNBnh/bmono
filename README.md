@@ -1,7 +1,7 @@
 <h1 align="center"><i>Bmono</i></h1>
 <p align="center">Mono font that <i>SuperB</i></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/115989432-85c1d300-a5e8-11eb-9eb9-974865659754.png"></p>
-<p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v11.0.1"><img src="https://img.shields.io/badge/iosevka_version-11.0.1-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 11.0.1"></a></p>
+<p align="center"><a href="https://github.com/NNBnh/bmono/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ofl--1.1-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: OFL-1.1"></a> <a href="https://github.com/be5invis/Iosevka/releases/tag/v11.2.2"><img src="https://img.shields.io/badge/iosevka_version-11.2.2-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Iosevka version: 11.2.2"></a></p>
 
 ## 💡 About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
@@ -13,7 +13,7 @@
   - `dollar = "open"`, `cent = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
 - **Consistency**:
   - `asterisk = "penta-low"` and `caret = "low"`: make it the same height as other math symbols(`-`, `+`, `=`, ...)
-  - `bar = "force-upright"`: so the textart/ASCII-art doesn't look weird on italic
+  - `bar = "force-upright"` and `disables = [ "logic" ]`: so the textart/ASCII-art doesn't look weird on italic
 - **Readability**:
   - Extended width: make the font wider
   - `l = "serifed-tailed"`: makes it easier to distinguish from `1` and `I` (`1lI`)
