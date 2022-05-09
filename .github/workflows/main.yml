@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Remove old build
-        run: rm -rf ./dist
+        run: rm -rf dist
 
       - name: Build
-        run: docker run --volume ./:/build avivace/iosevka-build
+        run: docker run --volume $PWD:/build avivace/iosevka-build
