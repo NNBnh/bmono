@@ -19,4 +19,4 @@ jobs:
         run: rm -rf dist
 
       - name: Build fonts
-        run: docker run -it -v $(pwd):/build avivace/iosevka-build
+        run: docker run -i -v $(pwd):/build avivace/iosevka-build
