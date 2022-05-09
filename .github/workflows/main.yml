@@ -19,4 +19,4 @@ jobs:
         run: rm -rf ./dist
 
       - name: Build
-        run: docker run -it -v ./:/build avivace/iosevka-build
+        run: docker run --volume ./:/build avivace/iosevka-build
