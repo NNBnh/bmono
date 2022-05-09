@@ -18,5 +18,5 @@ jobs:
       - name: Remove old build
         run: rm -rf dist
 
-      - name: Build
-        run: docker run -i -v $PWD:/build avivace/iosevka-build
+      - name: Build fonts
+        run: docker run -it -v $(pwd):/build avivace/iosevka-build
