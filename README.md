@@ -26,7 +26,7 @@
   - Discretionary ligatures: to get more ligatures, make it comparable to [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## 🔰 Tutorial
-[Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dots/wiki/font)
+[Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dotfiles/wiki/font)
 
 ## 💌 Credits
 Special thanks to:
