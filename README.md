@@ -6,8 +6,6 @@
 ## 💡 About
 **Bmono** is a *SuperB* mono font, it's a custom build of [**Iosevka**](https://github.com/be5invis/Iosevka). It focuses on **simplicity**, **readability** and **style**.
 
-<p align="center"><a href="https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2FNNBnh%2Fbmono%2Fmain%2Fdist%2Fbmono%2Fttf%2Fbmono-regular.ttf"><img src="https://img.shields.io/badge/try_out-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Try out"></a> <a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=FFC387&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
-
 ### ✨ Features
 - **Simplicity**:
   - `dollar = "open"`, `cent = "open"` and `percent = "rings-connected"`: makes the symbols less cluttered with less overlap
@@ -24,6 +22,20 @@
   - `paren = "large-contour"`: make `()` and `(-)` look more like a circle than an ellipse
 - **Functionality**:
   - Discretionary ligatures: to get more ligatures, make it comparable to [Fira Code](https://github.com/tonsky/FiraCode)
+
+## 📥 Installation
+
+<p align="center"><a href="https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2FNNBnh%2Fbmono%2Fmain%2Fdist%2Fbmono%2Fttf%2Fbmono-regular.ttf"><img src="https://img.shields.io/badge/try_out-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Try out"></a> <a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=FFC387&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
+
+### 📦 Package manager
+For [Arch Linux](https://archlinux.org), you can install through [AUR](https://aur.archlinux.org):
+```sh
+paru -Suy ttf-bmono
+```
+
+For [Nix/NixOS](https://nixos.org), you can install [Bmono's NUR package](https://nur.nix-community.org/repos/nnb).
+
+> *If you can and want to port Bmono to other package managers, feel free to do so.*
 
 ## 🔰 Tutorial
 [Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dotfiles/wiki/font)
