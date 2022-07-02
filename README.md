@@ -35,7 +35,7 @@ paru -Suy ttf-bmono
 
 For [Nix/NixOS](https://nixos.org), you can install [Bmono's NUR package](https://nur.nix-community.org/repos/nnb).
 
-> *If you can and want to port Bmono to other package managers, feel free to do so.*
+> **Note** If you can and want to port Bmono to other package managers, feel free to do so.
 
 ## 🔰 Tutorial
 [Learn how to build your own Iosevka custom font](https://github.com/NNBnh/dotfiles/wiki/font)
