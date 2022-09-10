@@ -23,6 +23,10 @@
 - **Functionality**:
   - Discretionary ligatures: to get more ligatures, make it comparable to [Fira Code](https://github.com/tonsky/FiraCode)
 
+> ### 👋 Good bye
+>
+> When I create this project, my goal is to make a Iosevka font that fix the [ligatures on Kitty bug](https://github.com/be5invis/Iosevka/issues/1326) and come with some tiny tweak to make it slicker. But now the [Kitty bug had been fixed](https://github.com/be5invis/Iosevka/pull/1403), you can tweak the font by using [stylistic sets/character variants](https://github.com/be5invis/Iosevka/issues/1376), plus I'm too lazy to maintain this project. So I decided to archive this project, thank you everyone following this project and 400~ people whom had download and use Bmono. Stay fresh!
+
 ## 📥 Installation
 
 <p align="center"><a href="https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2FNNBnh%2Fbmono%2Fmain%2Fdist%2Fbmono%2Fttf%2Fbmono-regular.ttf"><img src="https://img.shields.io/badge/try_out-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Try out"></a> <a href="https://github.com/NNBnh/bmono/releases"><img src="https://img.shields.io/github/downloads/NNBnh/bmono/total?color=FFC387&labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
